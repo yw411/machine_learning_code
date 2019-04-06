@@ -6,6 +6,8 @@
 
 1、svm
 
+smo is critical.
+
 2、adaboost
 
 3、决策树
