@@ -8,11 +8,11 @@
 
 smo is critical.
 
-2、cart_regression：y是连续的
-
-3、决策树、adaboost、gbdt、xgboost
+2、决策树、cart_regression：y是连续的（正在进行）
 
 4、kd树
+
+3、adaboost、gbdt、xgboost
 
 5、线性回归：fish、lda、最小二乘
 
