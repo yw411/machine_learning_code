@@ -8,15 +8,11 @@
 
 smo is critical.
 
-2、决策树、cart_regression：y是连续的（正在进行）
+2、决策树、cart_regression：y是连续的
+
+3、adaboost、gbdt、xgboost (running)
 
 4、kd树
-
-3、adaboost、gbdt、xgboost
-
-5、线性回归：fish、lda、最小二乘
-
-6、线性分类：逻辑回归、softmax regression
 
 7、最大熵
 
@@ -25,4 +21,9 @@ smo is critical.
 8、隐马尔可夫
 
 9、crf
+
+
+5、线性class：fish、lda、最小二乘\ganzhiji
+
+6、线性regression：逻辑回归、softmax regression
 
