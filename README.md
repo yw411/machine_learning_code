@@ -10,17 +10,17 @@ smo is critical.
 
 2、决策树、cart_regression：y是连续的
 
-3、adaboost、gbdt、xgboost 
+3、adaboost、gbdt、xgboost （大致懂了）
 
-4、kd树
+4、kd树（没懂，先放着）
 
-7、最大熵  (正在进行中，预计会用很长时间，因为我还没搞懂，更别提写代码了)
+7、最大熵  (源码看懂了，不过自己先不写，源码中某个细节一直没懂)
 
-7、em算法：kmean、混合高斯
+7、em算法：kmean、混合高斯(进行中)
+
+9、crf（待进行）
 
 8、隐马尔可夫
-
-9、crf
 
 
 5、线性class：fish、lda、最小二乘\ganzhiji
